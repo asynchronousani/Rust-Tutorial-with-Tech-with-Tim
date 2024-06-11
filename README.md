@@ -1,4 +1,4 @@
-### Rust Tutorial by Tech with Tim
+## Rust Tutorial by Tech with Tim
 
 Just a beginner's tutorial to Rust Programming Language provided by [Tech with Tim](https://www.youtube.com/@TechWithTim). Will be tracking my progress here on GitHub.
 
