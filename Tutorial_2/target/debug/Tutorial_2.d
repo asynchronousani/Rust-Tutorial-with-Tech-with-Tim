@@ -1,0 +1,1 @@
+C:\Users\Anirudh128\Desktop\Rust\ Practice\Rust\ Tutorial\ with\ Tech\ with\ Tim\Tutorial_2\target\debug\Tutorial_2.exe: C:\Users\Anirudh128\Desktop\Rust\ Practice\Rust\ Tutorial\ with\ Tech\ with\ Tim\Tutorial_2\src\main.rs
